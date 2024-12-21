@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" runstate="Runnable" testcasecount="3">
+  <test-suite type="Assembly" id="1-1005" name="FilterTest.dll" fullname="C:\git\filter-test\FilterTest\bin\Debug\net8.0\FilterTest.dll" runstate="Runnable" testcasecount="3">
+    <environment framework-version="4.3.0.0" clr-version="8.0.8" os-version="Microsoft Windows 10.0.22631" platform="Win32NT" cwd="C:\git\filter-test" machine-name="ATGRAL-2K5RKR3" user="floiso" user-domain="AD" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\git\filter-test" />
+      <setting name="NumberOfTestWorkers" value="20" />
+    </settings>
+    <properties>
+      <property name="_PID" value="5408" />
+      <property name="_APPDOMAIN" value="nunit3-console" />
+    </properties>
+    <test-suite type="TestSuite" id="1-1006" name="FilterTest" fullname="FilterTest" runstate="Runnable" testcasecount="3">
+      <test-suite type="TestFixture" id="1-1000" name="YourTestFixture" fullname="FilterTest.YourTestFixture" classname="FilterTest.YourTestFixture" runstate="Runnable" testcasecount="3">
+        <test-case id="1-1004" name="Hanstests" fullname="FilterTest.YourTestFixture.Hanstests" methodname="Hanstests" classname="FilterTest.YourTestFixture" runstate="Runnable" seed="191720902" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
